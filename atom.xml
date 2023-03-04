@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>猿创科技-铁榔头教育科技Beta</title>
+  
+  
+  <link href="https://wrundorry.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://wrundorry.github.io/"/>
+  <updated>2023-03-02T13:50:20.645Z</updated>
+  <id>https://wrundorry.github.io/</id>
+  
+  <author>
+    <name>WrunDorry汪嗯个凉</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LookCo考勤打卡</title>
+    <link href="https://wrundorry.github.io/2023/03/02/KaoQin/"/>
+    <id>https://wrundorry.github.io/2023/03/02/KaoQin/</id>
+    <published>2023-03-02T13:49:49.709Z</published>
+    <updated>2023-03-02T13:50:20.645Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ChatGPT介绍/使用说明</title>
+    <link href="https://wrundorry.github.io/2023/02/27/ChatGPT/"/>
+    <id>https://wrundorry.github.io/2023/02/27/ChatGPT/</id>
+    <published>2023-02-27T10:57:50.221Z</published>
+    <updated>2023-03-04T03:06:08.493Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">
+        &lt;h1 id=&quot;欢迎使用ChatGPT-七彩问答！&quot;   &gt;
+          &lt;a href=&quot;#欢迎使用ChatGPT-七彩问答！&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
