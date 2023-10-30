@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DevOpen Bots_Club</title>
+    <link>https://wrundorry.github.io/</link>
+    
+    <atom:link href="https://wrundorry.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 11 Mar 2023 07:09:35 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>自助问答机器人 介绍/使用说明</title>
+      <link>https://wrundorry.github.io/2023/03/11/ZiZhuFQA/</link>
+      <guid>https://wrundorry.github.io/2023/03/11/ZiZhuFQA/</guid>
+      <pubDate>Sat, 11 Mar 2023 06:35:36 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>
+        &lt;h1 id=&quot;自助问答机器人&quot;   &gt;
+          &lt;a href=&quot;#自助问答机器人&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#自助问答机器人&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://wrundorry.github.io/categories/Fan-Bots/">Fan-Bots</category>
+      
+      
+      
+      <comments>https://wrundorry.github.io/2023/03/11/ZiZhuFQA/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>LookCo考勤机器人 介绍/使用说明</title>
+      <link>https://wrundorry.github.io/2023/03/02/KaoQin/</link>
+      <guid>https://wrundorry.github.io/2023/03/02/KaoQin/</guid>
+      <pubDate>Thu, 02 Mar 2023 13:49:49 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>
+        &lt;h1 id=&quot;LookCo考勤机器人&quot;   &gt;
+          &lt;a href=&quot;#LookCo考勤机器人&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://wrundorry.github.io/categories/Fan-Bots/">Fan-Bots</category>
+      
+      
+      
+      <comments>https://wrundorry.github.io/2023/03/02/KaoQin/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>ChatGPT介绍/使用说明</title>
+      <link>https://wrundorry.github.io/2023/02/27/ChatGPT/</link>
+      <guid>https://wrundorry.github.io/2023/02/27/ChatGPT/</guid>
+      <pubDate>Mon, 27 Feb 2023 10:57:50 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>
+        &lt;h1 id=&quot;欢迎使用ChatGPT-七彩问答！&quot;   &gt;
+          &lt;a href=&quot;#欢迎使用ChatGPT-七彩问答！&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://wrundorry.github.io/categories/Fan-Bots/">Fan-Bots</category>
+      
+      
+      
+      <comments>https://wrundorry.github.io/2023/02/27/ChatGPT/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
